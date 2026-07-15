@@ -21,18 +21,23 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 - 💻 Passionate about building **Autonomous Agents, RAG pipelines, and Full-Stack Web Applications.**
 - 🏆 Solved **100+ DSA problems** and achieved HackerRank’s Software Engineer certification.
 - 🧠 Currently exploring **Generative AI, Multi-Agent Systems, MCP, and Next.js.**
-- 👨‍💻 Check out my portfolio: [yuvraj-portfolio-2026.vercel.app](https://yuvraj-portfolio-2026.vercel.app/)
+- 👨‍💻 Check out my portfolio: [Portfolio](https://yuvraj-portfolio-2026.vercel.app/)
 
 ---
 
 ## 🛠️ Featured Projects
 
-- 📈 **[InvestAgent — AI-Powered Investment Research Agent](https://investment-agent-one.vercel.app)**  
+- 📈 **[InvestAgent — AI-Powered Investment Research Agent | [Live](https://investment-agent-one.vercel.app)**  
   An autonomous multi-agent system powered by a LangGraph pipeline, Tavily web search, and Google Gemini LLMs. It researches public companies in real-time and delivers a structured INVEST / PASS / MONITOR verdict with confidence scoring and factor analysis using Server-Sent Events (SSE).
-- 💸 **BreakMoney — Expense Management & Debt Simplification**  
+
+- 💸 **BreakMoney — Expense Management & Debt Simplification | [Live](https://yuvieee01.pythonanywhere.com/)**  
   A Django-based expense-sharing system that automatically works out the minimum number of payments needed to settle group debts using a custom netting algorithm.
-- 🤖 **AutoSched — Autonomous Personal Productivity Agent**  
+
+- 🤖 **[AutoSched — Autonomous Personal Productivity Agent | [Live](https://autosched.vercel.app/)**  
   An autonomous planning agent in Python that follows an Observe → Reason → Plan → Act → Reflect loop to prioritize tasks, catch overload, and reschedule automatically.
+
+- 📄 **[Resume Ranker - Ranks Resumes on JD using ML | [Live](https://resumeranker-ml.vercel.app/)**  
+  An ML-powered prototype that automates candidate screening by converting resumes and job descriptions into vectors to calculate similarity scores. It reached 88% match accuracy and cuts initial screening time by 37%.
 
 ---
 
