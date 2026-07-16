@@ -193,12 +193,12 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://gh-readme-stats.vercel.app/api?username=yuvieee01&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=yuvieee01&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://gh-readme-stats.vercel.app/api?username=yuvieee01&show_icons=true&theme=dark"/>
+<img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=yuvieee01&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvieee01&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvieee01&theme=dark"/>
 </p>
 
 ---
@@ -206,7 +206,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvieee01&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvieee01&theme=react"/>
 </p>
 
 ---
