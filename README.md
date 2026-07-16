@@ -82,7 +82,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 <h3 align="center">📈 InvestAgent — AI-Powered Investment Research Agent</h3>
 
 <div align="center">
-<a href="https://investment-agent-one.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-818cf8?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="https://investagent-python.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-818cf8?style=flat-square&logo=vercel&logoColor=white"></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Complete-34d399?style=flat-square">
 </div>
@@ -134,7 +134,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 <h3 align="center">🤖 AutoSched — Autonomous Personal Productivity Agent</h3>
 
 <div align="center">
-<a href="https://autosched.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-818cf8?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="https://autosched-python.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-818cf8?style=flat-square&logo=vercel&logoColor=white"></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Complete-34d399?style=flat-square">
 </div>
