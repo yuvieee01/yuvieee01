@@ -25,7 +25,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> &nbsp; Tech Stack
+## </> &nbsp; Tech Stack
 
 <div align="center">
 
@@ -101,9 +101,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
+---
 
 <h3 align="center">💸 BreakMoney — Expense Management & Debt Simplification</h3>
 
@@ -127,9 +125,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
+---
 
 <h3 align="center">🤖 AutoSched — Autonomous Personal Productivity Agent</h3>
 
@@ -152,9 +148,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 <img src="https://img.shields.io/badge/AI%20Agents-c084fc?style=flat-square">
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
+---
 
 <h3 align="center">📄 Resume Ranker — ML-Powered Candidate Screening</h3>
 
