@@ -195,9 +195,13 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=yuvieee01&layout=compact&theme=dark"/>
 </div>
 
+<br>
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/yuvieee01/yuvieee01/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvieee01&theme=dark"/>
