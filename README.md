@@ -1,4 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=header" width="100%"/>
+
 <h1 align="center">Hi, I'm Yuvraj.. 👋</h1>
+
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 <h3 align="center">
 Computer Science (AI & ML) Student • Aspiring Software Engineer
@@ -79,7 +83,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 
 <div align="center">
 
-<h3 align="center">📈 InvestAgent — AI-Powered Investment Research Agent</h3>
+<h2 align="center">📈 InvestAgent — AI-Powered Investment Research Agent</h2>
 
 <div align="center">
 <a href="https://investagent-python.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-818cf8?style=flat-square&logo=vercel&logoColor=white"></a>
@@ -103,7 +107,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 
 ---
 
-<h3 align="center">💸 BreakMoney — Expense Management & Debt Simplification</h3>
+<h2 align="center">💸 BreakMoney — Expense Management & Debt Simplification</h2>
 
 <div align="center">
 <a href="https://yuvieee01.pythonanywhere.com/"><img src="https://img.shields.io/badge/Live%20Demo-818cf8?style=flat-square&logo=python&logoColor=white"></a>
@@ -127,7 +131,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 
 ---
 
-<h3 align="center">🤖 AutoSched — Autonomous Personal Productivity Agent</h3>
+<h2 align="center">🤖 AutoSched — Autonomous Personal Productivity Agent</h2>
 
 <div align="center">
 <a href="https://autosched-python.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-818cf8?style=flat-square&logo=vercel&logoColor=white"></a>
@@ -150,7 +154,7 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 
 ---
 
-<h3 align="center">📄 Resume Ranker — ML-Powered Candidate Screening</h3>
+<h2 align="center">📄 Resume Ranker — ML-Powered Candidate Screening</h2>
 
 <div align="center">
 <a href="https://resumeranker-ml.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-818cf8?style=flat-square&logo=vercel&logoColor=white"></a>
@@ -186,14 +190,18 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 <img height="170" src="https://gh-readme-stats.vercel.app/api?username=yuvieee01&show_icons=true&theme=dark"/>
 <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=yuvieee01&layout=compact&theme=dark"/>
-</p>
+</div>
 
-<p align="center">
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/yuvieee01/yuvieee01/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvieee01&theme=dark"/>
-</p>
+</div>
 
 ---
 
@@ -202,6 +210,15 @@ Building intelligent applications with GenAI, LangGraph, and Python | Actively s
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvieee01&theme=react"/>
 </p>
+
+---
+
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvieee01/yuvieee01/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvieee01/yuvieee01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuvieee01/yuvieee01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ---
 
